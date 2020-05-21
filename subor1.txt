@@ -4,6 +4,7 @@ tri
 styri
 pat
 sest
+sest a pol
 sedem
 osem
 devat
