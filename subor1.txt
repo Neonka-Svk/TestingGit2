@@ -9,6 +9,7 @@ sest
 sest a pol
 sedem
 osem
+osem a pol
 devat
 desat
 jedenast
